@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Jorgesss",
+      "name": "Jorge",
+      "lastname": "Rodrigues",
+      "email": "jorge@gmail.com",
+      "phone": "315698742"
+    },
+    {
+      "username": "Javier08",
+      "name": "Javier",
+      "lastname": "moya",
+      "email": "javier@gmail.com",
+      "phone": "3224513620",
+      "id": 3
+    },
+    {
+      "username": "paula andrea",
+      "name": "paula",
+      "lastname": "castillo",
+      "email": "paula@gmail.com",
+      "phone": "321454212",
+      "id": 6
+    },
+    {
+      "username": "andres88",
+      "name": "andres",
+      "lastname": "moya",
+      "email": "andres@gmail.com",
+      "phone": "252525",
+      "id": 7
+    }
+  ]
+}
