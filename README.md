@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `Inicio de App`
 
-Iniciar la aplicación
+
 primero ejecutar comando: npm run json-server
 y despues el comando: npm start 
 de esta forma se inicia la app
